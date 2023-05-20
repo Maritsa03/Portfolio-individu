@@ -16,7 +16,7 @@ Tampilan tersebut dapat dilihat di link berikut
 Nilai lighthouse sebelum optimalisasi
 ![image](https://github.com/Maritsa03/Portfolio-individu/assets/131169444/568526c3-3df6-4bc1-9dc8-cd4cc94825d2)
 Nilai lighthouse setelah optimalisasi
-![image](https://github.com/Maritsa03/Portfolio-individu/assets/131169444/53b258a1-0a8d-4b7b-af87-6c0e606b704a)
+![image](https://github.com/Maritsa03/Portfolio-individu/assets/131169444/7937dfb4-2163-4719-b664-4e0bf3f319cc)
 
 Langkah-langkah yang dilakukan untuk meningkatkan nilai kualitas website dari lighthouse :
   * Memberikan Animasi pada pergerakan Website
